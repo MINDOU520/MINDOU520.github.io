@@ -87,3 +87,7 @@ deploy:
   type: git
   repo: https://github.com/MINDOU520/MINDOU520.github.io.git
   branch: master
+  
+search:
+  path: search.xml
+  field: all
