@@ -1,19 +1,19 @@
 [{
     "image": "https://github.com/MINDOU520/Images/raw/master/solider.jpg",
     "align": "center",
-    "title": "This is our big Tagline!",
-    "subtitle": "Here's our small slogan.",
+    "title": "Being on sea, sail",
+    "subtitle": "being on land, settle",
 	"link": "/"
 }, {
     "image": "https://github.com/MINDOU520/Images/raw/master/solider2.png",
     "align": "left",
-    "title": "Left Aligned Caption",
-    "subtitle": "Here's our small slogan.",
+    "title": "Good is good",
+    "subtitle": " but better carries it",
 	"link": null
 }, {
     "image": "https://github.com/MINDOU520/Images/raw/master/solider3.jpg",
     "align": "right",
-    "title": "Right Aligned Caption",
-    "subtitle": "Here's our small slogan.",
+    "title": "Miracles sometimes occur",
+    "subtitle": " but one has to work terribly for them",
 	"link": null
 }]
