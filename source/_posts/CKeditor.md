@@ -1,5 +1,5 @@
 ---
-title: CKeditor在VS2017下关于.net.MVC的配置问题
+title: CKeditor+CKFinder在VS2017下关于.net.MVC的配置问题
 date: 2018-04-24 10:48:42
 tags:
   - ASP.NET
